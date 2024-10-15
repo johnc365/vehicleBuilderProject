@@ -49,8 +49,8 @@ class Motorbike extends Vehicle {
     console.log(`Make: ${this.make}`);
     console.log(`Model: ${this.model}`);
     console.log(`Year: ${this.year}`);
-    console.log(`Weight: ${this.weight}`);
-    console.log(`Top Speed: ${this.topSpeed}`);
+    console.log(`Weight: ${this.weight} lbs`);
+    console.log(`Top Speed: ${this.topSpeed} mph`);
     console.log(`Color: ${this.color}`);
     console.log(`Wheels: ${this.wheels}`);
   }
